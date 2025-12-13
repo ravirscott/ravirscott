@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 Connect with me
-- 🌐 Website: https://ravir.fun  
+- 🌐 Website: https://ravir-scott.blogspot.com/
 - 🐙 GitHub: https://github.com/ravirscott  
 - 📸 Instagram: https://instagram.com/ravirscott  
 - ▶️ YouTube: https://youtube.com/@ravirscott  
