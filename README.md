@@ -39,14 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=ravirscott&theme=github-dark&hide_border=true" />
 </p>
 
----
-
-## 🟢 Contribution Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/ravirscott" />
-</p>
-
----
 
 ## 🔗 Connect with me
 - 🌐 Website: https://ravir-scott.blogspot.com/
