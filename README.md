@@ -22,7 +22,7 @@
 
 ## ⚙️ Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,python,linux,kali,devto,ai,npm,redhat,htmx" />
 </p>
 
 ---
