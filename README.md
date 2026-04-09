@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,100:39d353&height=200&section=header&text=Ravir%20Scott&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Artist & Developer & Author</h3>
+<h3 align="center">Artist • Developer • Author</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
