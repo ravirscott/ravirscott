@@ -13,5 +13,5 @@
 
 ## ⚙️ Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,python,linux,kali,devto,ai,npm,redhat,htmx" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,python,linux,kali,devto,ai,npm,redhat" />
 </p>
